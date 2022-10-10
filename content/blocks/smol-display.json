@@ -1,0 +1,16 @@
+{
+	"type": "LogicDisplay",
+	"name": "Smol Display",
+	"category": "logic",
+	"research": "logic-display",
+	"requirements": [
+		"silicon/10",
+		"lead/25",
+		"metaglass/5"
+	],
+
+	"health": 64,
+	"size": 1,
+	"displaySize": 24,
+	"maxSides": 10
+}

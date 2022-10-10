@@ -1,0 +1,16 @@
+{
+	"type": "LogicDisplay",
+	"name": "Medium Large Display",
+	"category": "logic",
+	"research": "logic-display",
+	"requirements": [
+		"silicon/100",
+		"lead/175",
+		"metaglass/100"
+	],
+
+	"health": 1024,
+	"size": 5,
+	"displaySize": 144,
+	"maxSides": 16
+}

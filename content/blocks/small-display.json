@@ -1,0 +1,16 @@
+{
+	"type": "LogicDisplay",
+	"name": "Small Display",
+	"category": "logic",
+	"research": "logic-display",
+	"requirements": [
+		"silicon/30",
+		"lead/60",
+		"metaglass/30"
+	],
+
+	"health": 128,
+	"size": 2,
+	"displaySize": 48,
+	"maxSides": 10
+}
